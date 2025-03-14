@@ -41,7 +41,7 @@ The dataset is publicly available on **[Kaggle](your_dataset_link_here)** or **A
 ## 🛠️ Technologies Used  
 - **Python** 🐍 (pandas, numpy, seaborn, matplotlib)  
 - **Google Colab** 🚀  
-- **Tableau / Power BI** 📊 *(for additional dashboards, if applicable)*  
+- **Tableau / Power BI** 📊 [link](https://public.tableau.com/views/airbnb_17285743231980/AirbnbOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🏆 Insights & Conclusion  
 - **Most listings** are in **Manhattan & Brooklyn**.  
